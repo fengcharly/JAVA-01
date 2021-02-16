@@ -16,7 +16,7 @@ public class Main {
 
     public static void main(String[] args) throws Exception {
 
-        String path = "E:\\intellij04\\test-demo\\test-demo\\b-second\\src\\main\\java\\com\\test\\bsecond\\xunlianying\\week05\\springbean\\student.xml";
+        String path = "E:\\week05\\springbean\\student.xml";
 
         //获取文档对象
         SAXReader reader = new SAXReader();
